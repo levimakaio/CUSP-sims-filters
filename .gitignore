@@ -1,0 +1,11 @@
+#files and folders
+.settings/
+Temp/
+_Temp_/
+ignored/
+
+# Python
+__pycache__/
+
+*.pyc
+*.dll
