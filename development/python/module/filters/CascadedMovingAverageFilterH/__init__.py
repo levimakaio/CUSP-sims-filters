@@ -1,0 +1,1 @@
+from .CascadedMovingAverageFilterH      import cascadedMovingAverageFilter_typ  #class

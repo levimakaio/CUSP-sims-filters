@@ -1,0 +1,1 @@
+from .MovingAverageFilterH              import movingAverageFilter_typ          #class
